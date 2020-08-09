@@ -1,0 +1,1 @@
+BIN_Quests apply {[_x # 0,missionnamespace getvariable [(_x # 0) + "_start",_x # 1]]}
